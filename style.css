@@ -81,7 +81,7 @@ html {
 
 .thumbnail-wide {
     width: 100%;
-    max-width: 305px;
+    max-width: 400px;
 }
 
 .blog .card-header {
@@ -91,7 +91,7 @@ html {
 
 
 .blog .card {
-    max-width: 305px;
+    max-width: 400px;
 }
 
 .text-justify {
