@@ -105,7 +105,7 @@ html {
 
 .nav-item-offset {
     text-align: center;
-
+    margin-left: -100px;
 }
 
 .logo-icon {
