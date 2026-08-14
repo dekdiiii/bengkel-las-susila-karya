@@ -70,6 +70,23 @@ html {
     border-bottom: 0;
 }
 
+.text-purple {
+    color: #08b5e5; /* ganti sesuai warna ungu yang kamu mau */
+}
+
+.stats-wrapper {
+    margin-top: 20px;
+}
+
+.stat-item h1 {
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.stat-item p {
+    margin-top: -15px;
+}
+
 /* ===== Blog thumbnail ===== */
 .thumbnail {
     width: 100%;
